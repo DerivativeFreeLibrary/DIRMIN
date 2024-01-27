@@ -1,0 +1,6 @@
+iprint      0
+rmaxnf      100
+maxint      -1
+tolglob     1.d-4
+alfa_stop   1.d-3
+trigLS      0.1d0
